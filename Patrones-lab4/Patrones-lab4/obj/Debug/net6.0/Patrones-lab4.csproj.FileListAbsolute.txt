@@ -1,0 +1,15 @@
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\bin\Debug\net6.0\Patrones-lab4.exe
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\bin\Debug\net6.0\Patrones-lab4.deps.json
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\bin\Debug\net6.0\Patrones-lab4.runtimeconfig.json
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\bin\Debug\net6.0\Patrones-lab4.dll
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\bin\Debug\net6.0\Patrones-lab4.pdb
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.csproj.AssemblyReference.cache
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.dll
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\refint\Patrones-lab4.dll
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.pdb
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\Patrones-lab4.genruntimeconfig.cache
+C:\Users\Luciano\source\repos\Patrones-lab4\Patrones-lab4\obj\Debug\net6.0\ref\Patrones-lab4.dll
